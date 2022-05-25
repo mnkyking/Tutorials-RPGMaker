@@ -12,3 +12,4 @@ https://github.com/mnkyking/Tutorials-RPGMaker/tree/main/Eventing%20a%20Picture%
 Video Series
 https://www.youtube.com/watch?v=Lh3YvWijmEQ
 Project Files
+https://github.com/mnkyking/Tutorials-RPGMaker/tree/main/Eventing%20a%20Picture%20Based%20Menu%20-%20Follow%20Up
