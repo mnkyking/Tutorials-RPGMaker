@@ -1,0 +1,7 @@
+the thing i'm dying to know is many small maps linked together or fewer, much larger maps for single areas
+
+waits vs timers
+Okay so let's say time will 'tick' every minute, and it takes ten ticks for a day to go by. You could set it to have 6 wait commands that take 10 seconds each to do less math- that'd just be waiting for 600 frames each, as opposed to a single wait command that would take... what, 3,600 frames? And then at the end of the waits you add one to a 'time' variable. When that 'time' variable gets to a certain point you activate a switch and tint the screen to make it look like nighttime, the switch will activate a secondary page on the scheduling event to make everyone do their nightly activities (you can also have intermittent Other Tasks midday depending on the variable itself, but for ease of use I recommend a switch for the nighttime.)
+If the player sleeps, reset the variable to 0. if they don't start ticking back DOWN the variable, and subtract one or more from their energy every tick.
+
+how many events can I have on a map? parallel or not?

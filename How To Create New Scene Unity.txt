@@ -1,0 +1,11 @@
+How to create a new level?
+
+Create new scene and give appropriate name
+Open new scene
+Go to Prefabs Folder and drag in the following into Hierarchy 
+SceneTemplate Prefab
+PlayerTest Prefab
+GameCamera Prefab
+In Hierarchy tab Select GameCamera > CM vcam1 
+In Inspector Scroll down to CinemachineVirtualCamera
+and add PlayerTest from Hierarchy to Follow variable
