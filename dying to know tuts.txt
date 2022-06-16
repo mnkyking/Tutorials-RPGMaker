@@ -5,3 +5,7 @@ Okay so let's say time will 'tick' every minute, and it takes ten ticks for a da
 If the player sleeps, reset the variable to 0. if they don't start ticking back DOWN the variable, and subtract one or more from their energy every tick.
 
 how many events can I have on a map? parallel or not?
+
+are variables global? Are they reset for new games?
+
+
